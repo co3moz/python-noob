@@ -18,10 +18,10 @@ etc..
 features
 -------------
 
-* list the damn students
-* add new student
-* remove the naughty ones
-* search them
+* list the damn students :school: 
+* add new student :sheep: :beginner: 
+* remove the naughty ones :shit:
+* search them :microscope: 
 
 start
 -----------
