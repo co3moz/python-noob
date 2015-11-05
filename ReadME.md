@@ -9,7 +9,7 @@ what will you learn
 * lists
 * printing values
 * classes
-* printing directly classes
+* printing directly from classes
 * search algorithm
 * deleting values from lists
 
